@@ -1,0 +1,8 @@
+C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\TestHello\TestHello\obj\Debug\TestHello.csproj.AssemblyReference.cache
+C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\TestHello\TestHello\obj\Debug\TestHello.csproj.SuggestedBindingRedirects.cache
+C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\TestHello\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\TestHello\TestHello\bin\Debug\TestHello.exe
+C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\TestHello\TestHello\bin\Debug\TestHello.pdb
+C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\TestHello\TestHello\obj\Debug\TestHello.exe
+C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\TestHello\TestHello\obj\Debug\TestHello.pdb
