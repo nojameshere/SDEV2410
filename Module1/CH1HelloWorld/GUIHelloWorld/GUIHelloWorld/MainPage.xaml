@@ -8,10 +8,11 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
-    <Grid>
+    <Grid Background="#FFF99A9A">
         <TextBlock HorizontalAlignment="Left" Margin="50,54,0,0" TextWrapping="Wrap" Text="Please enter your name" VerticalAlignment="Top" Height="141" Width="616" FontSize="48"/>
-        <TextBox x:Name="userName" HorizontalAlignment="Left" Margin="88,178,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" FontSize="36" Height="95" Width="428" FontFamily="Ink Free"/>
+        <TextBox x:Name="userName" HorizontalAlignment="Left" Margin="88,178,0,0" TextWrapping="Wrap" Text="Username" VerticalAlignment="Top" FontSize="36" Height="95" Width="428" FontFamily="Ink Free" BorderThickness="2,2,2,2"/>
         <Button x:Name="ok" Content="OK" Margin="241,301,0,0" VerticalAlignment="Top" FontSize="36" RenderTransformOrigin="0.492,0.487" Width="114" Height="89" Click="okClick"/>
+        <TextBox x:Name="output" HorizontalAlignment="Left" Margin="50,439,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="290" Width="497" FontSize="36" BorderThickness="0,0,0,0" Background="{x:Null}"/>
 
     </Grid>
 </Page>

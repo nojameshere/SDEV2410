@@ -1,1 +1,1 @@
-C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\GUIHelloWorld.csproj;x86
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\GUIHelloWorld.csproj;x86

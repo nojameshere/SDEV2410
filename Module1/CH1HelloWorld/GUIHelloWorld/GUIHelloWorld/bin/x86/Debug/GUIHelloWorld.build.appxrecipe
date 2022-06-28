@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-9K6C2O3</Machine>
-    <WindowsUser>Millie</WindowsUser>
+    <Machine>MILANOTOWER</Machine>
+    <WindowsUser>James</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>86ce98bd-4472-44d2-b8d0-c8cb57bea513</PackageIdentityName>
     <PackageIdentityPublisher>CN=Millie</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\GUIHelloWorld.exe">
+    <AppxPackagedFile Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\GUIHelloWorld.exe">
       <PackagePath>entrypoint\GUIHelloWorld.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.13\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
@@ -34,52 +34,52 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\GUIHelloWorld.xr.xml">
+    <AppxPackagedFile Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\GUIHelloWorld.xr.xml">
       <PackagePath>GUIHelloWorld.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Millie\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\Core\GUIHelloWorld.exe">
+    <AppxPackagedFile Include="G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH1HelloWorld\GUIHelloWorld\GUIHelloWorld\bin\x86\Debug\Core\GUIHelloWorld.exe">
       <PackagePath>GUIHelloWorld.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

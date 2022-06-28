@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2410\\Module1\\CH1HelloWorld\\GUIHelloWorld\\GUIHelloWorld\\GUIHelloWorld.csproj": {}
+    "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module1\\CH1HelloWorld\\GUIHelloWorld\\GUIHelloWorld\\GUIHelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2410\\Module1\\CH1HelloWorld\\GUIHelloWorld\\GUIHelloWorld\\GUIHelloWorld.csproj": {
+    "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module1\\CH1HelloWorld\\GUIHelloWorld\\GUIHelloWorld\\GUIHelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2410\\Module1\\CH1HelloWorld\\GUIHelloWorld\\GUIHelloWorld\\GUIHelloWorld.csproj",
+        "projectUniqueName": "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module1\\CH1HelloWorld\\GUIHelloWorld\\GUIHelloWorld\\GUIHelloWorld.csproj",
         "projectName": "GUIHelloWorld",
-        "projectPath": "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2410\\Module1\\CH1HelloWorld\\GUIHelloWorld\\GUIHelloWorld\\GUIHelloWorld.csproj",
-        "packagesPath": "C:\\Users\\Millie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Millie\\Documents\\GitHub\\SDEV2410\\Module1\\CH1HelloWorld\\GUIHelloWorld\\GUIHelloWorld\\obj\\",
+        "projectPath": "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module1\\CH1HelloWorld\\GUIHelloWorld\\GUIHelloWorld\\GUIHelloWorld.csproj",
+        "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
+        "outputPath": "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module1\\CH1HelloWorld\\GUIHelloWorld\\GUIHelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -19,7 +19,7 @@
           "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Millie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
