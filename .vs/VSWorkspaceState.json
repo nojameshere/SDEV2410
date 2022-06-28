@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Module1",
+    "\\Module1\\CH1HelloWorld",
+    "\\Module1\\CH1HelloWorld\\GUIHelloWorld",
+    "\\Module1\\CH1HelloWorld\\GUIHelloWorld\\GUIHelloWorld"
   ],
-  "SelectedNode": "\\.gitattributes",
+  "SelectedNode": "\\Module1\\CH1HelloWorld\\GUIHelloWorld\\GUIHelloWorld.sln",
   "PreviewInSolutionExplorer": false
 }
