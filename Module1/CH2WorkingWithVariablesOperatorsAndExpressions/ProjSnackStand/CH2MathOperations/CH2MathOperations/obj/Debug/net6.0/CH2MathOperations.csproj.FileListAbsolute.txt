@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\bin\Debug\net6.0\CH2MathOperations.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\bin\Debug\net6.0\CH2MathOperations.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\bin\Debug\net6.0\CH2MathOperations.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\bin\Debug\net6.0\CH2MathOperations.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\bin\Debug\net6.0\CH2MathOperations.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\obj\Debug\net6.0\CH2MathOperations.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\obj\Debug\net6.0\CH2MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\obj\Debug\net6.0\CH2MathOperations.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\obj\Debug\net6.0\CH2MathOperations.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\obj\Debug\net6.0\CH2MathOperations.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\obj\Debug\net6.0\CH2MathOperations.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\obj\Debug\net6.0\refint\CH2MathOperations.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\obj\Debug\net6.0\CH2MathOperations.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\obj\Debug\net6.0\CH2MathOperations.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH2WorkingWithVariablesOperatorsAndExpressions\ProjSnackStand\CH2MathOperations\CH2MathOperations\obj\Debug\net6.0\ref\CH2MathOperations.dll
