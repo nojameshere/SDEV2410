@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\bin\Debug\net6.0\CH3Payroll.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\bin\Debug\net6.0\CH3Payroll.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\bin\Debug\net6.0\CH3Payroll.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\bin\Debug\net6.0\CH3Payroll.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\bin\Debug\net6.0\CH3Payroll.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\obj\Debug\net6.0\CH3Payroll.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\obj\Debug\net6.0\CH3Payroll.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\obj\Debug\net6.0\CH3Payroll.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\obj\Debug\net6.0\CH3Payroll.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\obj\Debug\net6.0\CH3Payroll.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\obj\Debug\net6.0\CH3Payroll.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\obj\Debug\net6.0\refint\CH3Payroll.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\obj\Debug\net6.0\CH3Payroll.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\obj\Debug\net6.0\CH3Payroll.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3Payroll\CH3Payroll\obj\Debug\net6.0\ref\CH3Payroll.dll

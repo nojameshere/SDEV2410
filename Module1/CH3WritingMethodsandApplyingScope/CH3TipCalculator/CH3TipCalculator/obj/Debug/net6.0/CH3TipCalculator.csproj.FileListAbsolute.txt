@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\obj\Debug\net6.0\CH3TipCalculator.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\obj\Debug\net6.0\CH3TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\obj\Debug\net6.0\CH3TipCalculator.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\obj\Debug\net6.0\CH3TipCalculator.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\obj\Debug\net6.0\CH3TipCalculator.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\bin\Debug\net6.0\CH3TipCalculator.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\bin\Debug\net6.0\CH3TipCalculator.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\bin\Debug\net6.0\CH3TipCalculator.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\bin\Debug\net6.0\CH3TipCalculator.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\bin\Debug\net6.0\CH3TipCalculator.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\obj\Debug\net6.0\CH3TipCalculator.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\obj\Debug\net6.0\refint\CH3TipCalculator.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\obj\Debug\net6.0\CH3TipCalculator.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\obj\Debug\net6.0\CH3TipCalculator.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module1\CH3WritingMethodsandApplyingScope\CH3TipCalculator\CH3TipCalculator\obj\Debug\net6.0\ref\CH3TipCalculator.dll
