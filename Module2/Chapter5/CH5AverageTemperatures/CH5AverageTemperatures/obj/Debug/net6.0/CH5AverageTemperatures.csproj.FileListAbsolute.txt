@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\obj\Debug\net6.0\CH5AverageTemperatures.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\obj\Debug\net6.0\CH5AverageTemperatures.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\obj\Debug\net6.0\CH5AverageTemperatures.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\obj\Debug\net6.0\CH5AverageTemperatures.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\obj\Debug\net6.0\CH5AverageTemperatures.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\bin\Debug\net6.0\CH5AverageTemperatures.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\bin\Debug\net6.0\CH5AverageTemperatures.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\bin\Debug\net6.0\CH5AverageTemperatures.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\bin\Debug\net6.0\CH5AverageTemperatures.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\bin\Debug\net6.0\CH5AverageTemperatures.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\obj\Debug\net6.0\CH5AverageTemperatures.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\obj\Debug\net6.0\refint\CH5AverageTemperatures.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\obj\Debug\net6.0\CH5AverageTemperatures.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\obj\Debug\net6.0\CH5AverageTemperatures.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5AverageTemperatures\CH5AverageTemperatures\obj\Debug\net6.0\ref\CH5AverageTemperatures.dll

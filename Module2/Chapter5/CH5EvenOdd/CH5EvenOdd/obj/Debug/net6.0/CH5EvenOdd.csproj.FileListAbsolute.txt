@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\bin\Debug\net6.0\CH5EvenOdd.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\bin\Debug\net6.0\CH5EvenOdd.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\bin\Debug\net6.0\CH5EvenOdd.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\bin\Debug\net6.0\CH5EvenOdd.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\bin\Debug\net6.0\CH5EvenOdd.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\obj\Debug\net6.0\CH5EvenOdd.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\obj\Debug\net6.0\CH5EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\obj\Debug\net6.0\CH5EvenOdd.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\obj\Debug\net6.0\CH5EvenOdd.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\obj\Debug\net6.0\CH5EvenOdd.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\obj\Debug\net6.0\CH5EvenOdd.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\obj\Debug\net6.0\refint\CH5EvenOdd.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\obj\Debug\net6.0\CH5EvenOdd.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\obj\Debug\net6.0\CH5EvenOdd.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5EvenOdd\CH5EvenOdd\obj\Debug\net6.0\ref\CH5EvenOdd.dll
