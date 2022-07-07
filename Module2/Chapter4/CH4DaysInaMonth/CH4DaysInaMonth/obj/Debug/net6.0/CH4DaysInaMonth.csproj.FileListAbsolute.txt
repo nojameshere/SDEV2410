@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\bin\Debug\net6.0\CH4DaysInaMonth.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\bin\Debug\net6.0\CH4DaysInaMonth.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\bin\Debug\net6.0\CH4DaysInaMonth.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\bin\Debug\net6.0\CH4DaysInaMonth.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\bin\Debug\net6.0\CH4DaysInaMonth.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\obj\Debug\net6.0\CH4DaysInaMonth.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\obj\Debug\net6.0\CH4DaysInaMonth.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\obj\Debug\net6.0\CH4DaysInaMonth.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\obj\Debug\net6.0\CH4DaysInaMonth.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\obj\Debug\net6.0\CH4DaysInaMonth.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\obj\Debug\net6.0\CH4DaysInaMonth.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\obj\Debug\net6.0\refint\CH4DaysInaMonth.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\obj\Debug\net6.0\CH4DaysInaMonth.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\obj\Debug\net6.0\CH4DaysInaMonth.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4DaysInaMonth\CH4DaysInaMonth\obj\Debug\net6.0\ref\CH4DaysInaMonth.dll

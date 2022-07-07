@@ -1,0 +1,17 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\bin\Debug\net6.0-windows\CH4AnnualBonus.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\bin\Debug\net6.0-windows\CH4AnnualBonus.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\bin\Debug\net6.0-windows\CH4AnnualBonus.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\bin\Debug\net6.0-windows\CH4AnnualBonus.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\bin\Debug\net6.0-windows\CH4AnnualBonus.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\obj\Debug\net6.0-windows\CH4AnnualBonus.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\obj\Debug\net6.0-windows\CH4AnnualBonus.Form1.resources
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\obj\Debug\net6.0-windows\CH4AnnualBonus.csproj.GenerateResource.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\obj\Debug\net6.0-windows\CH4AnnualBonus.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\obj\Debug\net6.0-windows\CH4AnnualBonus.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\obj\Debug\net6.0-windows\CH4AnnualBonus.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\obj\Debug\net6.0-windows\CH4AnnualBonus.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\obj\Debug\net6.0-windows\CH4AnnualBonus.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\obj\Debug\net6.0-windows\refint\CH4AnnualBonus.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\obj\Debug\net6.0-windows\CH4AnnualBonus.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\obj\Debug\net6.0-windows\CH4AnnualBonus.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter4\CH4AnnualBonus\CH4AnnualBonus\obj\Debug\net6.0-windows\ref\CH4AnnualBonus.dll
