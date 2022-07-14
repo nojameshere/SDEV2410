@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{18FE98E1-A3C6-42F1-AC39-0939687A8F56}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH7CashRegister/Program.cs">
+    <Files>
+      <File FileName="CH7CashRegister/Program.cs" Line="29" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH7CashRegister" expanded="True">
+            <Node name="CH7CashRegister" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CH7CashRegister PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
