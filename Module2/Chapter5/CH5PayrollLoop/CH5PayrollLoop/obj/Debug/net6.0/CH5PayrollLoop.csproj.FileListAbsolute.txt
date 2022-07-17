@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\obj\Debug\net6.0\CH5PayrollLoop.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\obj\Debug\net6.0\CH5PayrollLoop.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\obj\Debug\net6.0\CH5PayrollLoop.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\obj\Debug\net6.0\CH5PayrollLoop.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\obj\Debug\net6.0\CH5PayrollLoop.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\bin\Debug\net6.0\CH5PayrollLoop.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\bin\Debug\net6.0\CH5PayrollLoop.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\bin\Debug\net6.0\CH5PayrollLoop.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\bin\Debug\net6.0\CH5PayrollLoop.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\bin\Debug\net6.0\CH5PayrollLoop.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\obj\Debug\net6.0\CH5PayrollLoop.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\obj\Debug\net6.0\refint\CH5PayrollLoop.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\obj\Debug\net6.0\CH5PayrollLoop.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\obj\Debug\net6.0\CH5PayrollLoop.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5PayrollLoop\CH5PayrollLoop\obj\Debug\net6.0\ref\CH5PayrollLoop.dll

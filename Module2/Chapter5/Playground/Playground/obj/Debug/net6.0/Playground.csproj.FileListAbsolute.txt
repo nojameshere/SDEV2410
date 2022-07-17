@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\bin\Debug\net6.0\Playground.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\bin\Debug\net6.0\Playground.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\bin\Debug\net6.0\Playground.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\bin\Debug\net6.0\Playground.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\bin\Debug\net6.0\Playground.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\obj\Debug\net6.0\Playground.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\obj\Debug\net6.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\obj\Debug\net6.0\Playground.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\obj\Debug\net6.0\Playground.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\obj\Debug\net6.0\Playground.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\obj\Debug\net6.0\Playground.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\obj\Debug\net6.0\refint\Playground.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\obj\Debug\net6.0\Playground.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\obj\Debug\net6.0\Playground.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\Playground\Playground\obj\Debug\net6.0\ref\Playground.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH5ContinentalConversion", "CH5ContinentalConversion\CH5ContinentalConversion.csproj", "{72BB1F0D-39FC-4F1A-AA2D-58BFAF31138B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72BB1F0D-39FC-4F1A-AA2D-58BFAF31138B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BB1F0D-39FC-4F1A-AA2D-58BFAF31138B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BB1F0D-39FC-4F1A-AA2D-58BFAF31138B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BB1F0D-39FC-4F1A-AA2D-58BFAF31138B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05CEAAC1-1469-4E9A-803B-4CB642593933}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH6MPGwithTryCatch", "CH6MPGwithTryCatch\CH6MPGwithTryCatch.csproj", "{17CE660C-46BE-4E5C-9D24-499836F255BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17CE660C-46BE-4E5C-9D24-499836F255BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CE660C-46BE-4E5C-9D24-499836F255BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CE660C-46BE-4E5C-9D24-499836F255BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CE660C-46BE-4E5C-9D24-499836F255BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B403A05B-CE6F-4F0B-9375-A5F5989EEE59}
+	EndGlobalSection
+EndGlobal

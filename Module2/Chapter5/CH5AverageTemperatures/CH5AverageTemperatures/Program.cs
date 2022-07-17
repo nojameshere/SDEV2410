@@ -1,40 +1,35 @@
 ﻿Console.WriteLine("Chapter 5 Average Temperatures by James Sales\n");
 
-double low = 0;
-double high = 0;
+double low = -1000;
+double high = -1000;
 double average = 0;
-string continueRunning = "y";
-bool dataCheck = true;
+bool continueRunning = true;
 
 do
 {
-    low = 0;  //Need to set these for the while structure for data validation.
-    high = 0;
-    while (dataCheck)
+    high = -1000;
+    low = -1000;
+    do
     {
         Console.Write("Enter low temperature: ");
         low = double.Parse(Console.ReadLine());
-        if (low > -51)
-        {
-            dataCheck = false;
-        }
-    }
-    dataCheck = true;
-    while (dataCheck)
+
+    } while (low < -50);
+    do
     {
         Console.Write("Enter high temperature: ");
         high = double.Parse(Console.ReadLine());
-        if (high > low && high < 121)
-        {
-            dataCheck = false;
-        }
-    }
+    } while (high < low || high > 120) ; //this needs to be an or because if either are correct the loop will stop and we want to test for both.
+
     average = (low + high) / 2;
     Console.WriteLine($"Average for {low} and {high} is {average}");
     Console.Write("Do you have more temperatures? (y/n) ");
-    continueRunning = Console.ReadLine();
+    if (Console.ReadLine() == "n")
+    {
+        continueRunning = false;
+    }
 }
-while (continueRunning != "n"); //Will cause the do to continue running until a user types n
+while (continueRunning); //Will cause the do to continue running until a user types n
 
 Console.WriteLine("\nPress any key to proceed.");
 Console.ReadKey();

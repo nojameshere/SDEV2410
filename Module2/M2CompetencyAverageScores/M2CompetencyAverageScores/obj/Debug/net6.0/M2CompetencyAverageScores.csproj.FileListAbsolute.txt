@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\bin\Debug\net6.0\M2CompetencyAverageScores.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\bin\Debug\net6.0\M2CompetencyAverageScores.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\bin\Debug\net6.0\M2CompetencyAverageScores.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\bin\Debug\net6.0\M2CompetencyAverageScores.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\bin\Debug\net6.0\M2CompetencyAverageScores.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\obj\Debug\net6.0\M2CompetencyAverageScores.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\obj\Debug\net6.0\M2CompetencyAverageScores.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\obj\Debug\net6.0\M2CompetencyAverageScores.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\obj\Debug\net6.0\M2CompetencyAverageScores.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\obj\Debug\net6.0\M2CompetencyAverageScores.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\obj\Debug\net6.0\M2CompetencyAverageScores.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\obj\Debug\net6.0\refint\M2CompetencyAverageScores.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\obj\Debug\net6.0\M2CompetencyAverageScores.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\obj\Debug\net6.0\M2CompetencyAverageScores.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\M2CompetencyAverageScores\M2CompetencyAverageScores\obj\Debug\net6.0\ref\M2CompetencyAverageScores.dll

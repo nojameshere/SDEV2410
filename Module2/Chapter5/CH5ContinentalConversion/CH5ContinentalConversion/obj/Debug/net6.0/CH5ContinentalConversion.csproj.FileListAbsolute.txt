@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\obj\Debug\net6.0\CH5ContinentalConversion.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\obj\Debug\net6.0\CH5ContinentalConversion.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\obj\Debug\net6.0\CH5ContinentalConversion.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\obj\Debug\net6.0\CH5ContinentalConversion.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\obj\Debug\net6.0\CH5ContinentalConversion.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\bin\Debug\net6.0\CH5ContinentalConversion.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\bin\Debug\net6.0\CH5ContinentalConversion.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\bin\Debug\net6.0\CH5ContinentalConversion.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\bin\Debug\net6.0\CH5ContinentalConversion.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\bin\Debug\net6.0\CH5ContinentalConversion.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\obj\Debug\net6.0\CH5ContinentalConversion.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\obj\Debug\net6.0\refint\CH5ContinentalConversion.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\obj\Debug\net6.0\CH5ContinentalConversion.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\obj\Debug\net6.0\CH5ContinentalConversion.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module2\Chapter5\CH5ContinentalConversion\CH5ContinentalConversion\obj\Debug\net6.0\ref\CH5ContinentalConversion.dll
