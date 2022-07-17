@@ -1,0 +1,5 @@
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH7CashRegister/CH7CashRegister/obj/Debug/net6.0/CH7CashRegister.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH7CashRegister/CH7CashRegister/obj/Debug/net6.0/CH7CashRegister.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH7CashRegister/CH7CashRegister/obj/Debug/net6.0/CH7CashRegister.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH7CashRegister/CH7CashRegister/obj/Debug/net6.0/CH7CashRegister.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH7CashRegister/CH7CashRegister/obj/Debug/net6.0/CH7CashRegister.csproj.CoreCompileInputs.cache
