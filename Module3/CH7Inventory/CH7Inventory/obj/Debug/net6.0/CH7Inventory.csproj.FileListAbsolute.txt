@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\bin\Debug\net6.0\CH7Inventory.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\bin\Debug\net6.0\CH7Inventory.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\bin\Debug\net6.0\CH7Inventory.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\bin\Debug\net6.0\CH7Inventory.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\bin\Debug\net6.0\CH7Inventory.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\obj\Debug\net6.0\CH7Inventory.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\obj\Debug\net6.0\CH7Inventory.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\obj\Debug\net6.0\CH7Inventory.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\obj\Debug\net6.0\CH7Inventory.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\obj\Debug\net6.0\CH7Inventory.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\obj\Debug\net6.0\CH7Inventory.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\obj\Debug\net6.0\refint\CH7Inventory.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\obj\Debug\net6.0\CH7Inventory.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\obj\Debug\net6.0\CH7Inventory.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7Inventory\CH7Inventory\obj\Debug\net6.0\ref\CH7Inventory.dll

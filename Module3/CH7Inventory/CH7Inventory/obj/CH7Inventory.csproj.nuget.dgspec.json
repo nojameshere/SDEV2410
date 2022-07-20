@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH7CashRegister\\CH7CashRegister\\CH7CashRegister.csproj": {}
+    "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH7Inventory\\CH7Inventory\\CH7Inventory.csproj": {}
   },
   "projects": {
-    "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH7CashRegister\\CH7CashRegister\\CH7CashRegister.csproj": {
+    "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH7Inventory\\CH7Inventory\\CH7Inventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH7CashRegister\\CH7CashRegister\\CH7CashRegister.csproj",
-        "projectName": "CH7CashRegister",
-        "projectPath": "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH7CashRegister\\CH7CashRegister\\CH7CashRegister.csproj",
+        "projectUniqueName": "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH7Inventory\\CH7Inventory\\CH7Inventory.csproj",
+        "projectName": "CH7Inventory",
+        "projectPath": "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH7Inventory\\CH7Inventory\\CH7Inventory.csproj",
         "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-        "outputPath": "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH7CashRegister\\CH7CashRegister\\obj\\",
+        "outputPath": "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH7Inventory\\CH7Inventory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
