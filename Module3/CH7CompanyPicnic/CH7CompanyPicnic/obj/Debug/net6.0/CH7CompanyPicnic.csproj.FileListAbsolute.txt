@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\obj\Debug\net6.0\CH7CompanyPicnic.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\obj\Debug\net6.0\CH7CompanyPicnic.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\obj\Debug\net6.0\CH7CompanyPicnic.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\obj\Debug\net6.0\CH7CompanyPicnic.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\obj\Debug\net6.0\CH7CompanyPicnic.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\bin\Debug\net6.0\CH7CompanyPicnic.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\bin\Debug\net6.0\CH7CompanyPicnic.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\bin\Debug\net6.0\CH7CompanyPicnic.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\bin\Debug\net6.0\CH7CompanyPicnic.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\bin\Debug\net6.0\CH7CompanyPicnic.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\obj\Debug\net6.0\CH7CompanyPicnic.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\obj\Debug\net6.0\refint\CH7CompanyPicnic.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\obj\Debug\net6.0\CH7CompanyPicnic.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\obj\Debug\net6.0\CH7CompanyPicnic.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7CompanyPicnic\CH7CompanyPicnic\obj\Debug\net6.0\ref\CH7CompanyPicnic.dll
