@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\bin\Debug\net6.0\CH7BirthdayBonusWithDate.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\bin\Debug\net6.0\CH7BirthdayBonusWithDate.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\bin\Debug\net6.0\CH7BirthdayBonusWithDate.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\bin\Debug\net6.0\CH7BirthdayBonusWithDate.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\bin\Debug\net6.0\CH7BirthdayBonusWithDate.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\obj\Debug\net6.0\CH7BirthdayBonusWithDate.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\obj\Debug\net6.0\CH7BirthdayBonusWithDate.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\obj\Debug\net6.0\CH7BirthdayBonusWithDate.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\obj\Debug\net6.0\CH7BirthdayBonusWithDate.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\obj\Debug\net6.0\CH7BirthdayBonusWithDate.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\obj\Debug\net6.0\CH7BirthdayBonusWithDate.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\obj\Debug\net6.0\refint\CH7BirthdayBonusWithDate.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\obj\Debug\net6.0\CH7BirthdayBonusWithDate.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\obj\Debug\net6.0\CH7BirthdayBonusWithDate.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH7BirthdayBonusWithDate\CH7BirthdayBonusWithDate\obj\Debug\net6.0\ref\CH7BirthdayBonusWithDate.dll

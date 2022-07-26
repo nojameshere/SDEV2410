@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH8ReferenceValueParameters", "CH8ReferenceValueParameters\CH8ReferenceValueParameters.csproj", "{7ADC41F7-99F2-45D0-A270-3FB1E2493711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ADC41F7-99F2-45D0-A270-3FB1E2493711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADC41F7-99F2-45D0-A270-3FB1E2493711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADC41F7-99F2-45D0-A270-3FB1E2493711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADC41F7-99F2-45D0-A270-3FB1E2493711}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {397BE560-1501-4C2C-A307-1884D6C2D109}
+	EndGlobalSection
+EndGlobal
