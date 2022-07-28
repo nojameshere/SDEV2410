@@ -1,6 +1,7 @@
 ﻿Console.WriteLine("Chapter 8 Costs by James Sales");
 double subtotal = 0;
 bool cont = true;
+int enteredID;
 
 Hardware mouse = new Hardware("RAZER GAMING MOUSE FOR GAMERS", 1146, 129.99);
 Hardware keyboard = new Hardware("Generic free with computer USB keyboard (used)", 492, 0.35);
@@ -11,14 +12,11 @@ Repair charge = new Repair("Charging port repair", 19, 29.99);
 
 while (cont)
 {
-//Some shit here about doing shit
-
-
+    //Some shit here about doing shit
+    Console.Write("Which one is being processed? ");
+    enteredID = int.Parse(Console.ReadLine());
+    
 }
-
-
-
-
 
 class Hardware
 {
@@ -33,16 +31,16 @@ class Hardware
         this.ID = hardwareID;
         this.price = hardwarePrice;
     }
-    public double Calculation(ref subtotal)
+    public double Calculation(ref double subtotal)
     {
         Console.Write("How many sold? ");
         int quantity = int.Parse(Console.ReadLine());
         subtotal = quantity * this.price;
-        Console.WriteLine($"Subtotal = {subtotal}";
+        Console.WriteLine($"Subtotal = {subtotal}");
         Console.WriteLine($"Tax = {subtotal * this.tax}");
         double totalCost = subtotal + (subtotal * this.tax);
         Console.WriteLine($"Total Cost = {(subtotal) + (subtotal * this.tax)}");
-        return totalCost
+        return totalCost;
     }
     public string Display()
     {
@@ -64,15 +62,15 @@ class Repair
         this.ID = repairID;
         this.price = repairPrice;
     }
-    public double Calculation(ref subtotal)
+    public double Calculation(ref double subtotal)
     {
         Console.Write("How many sold? ");
         int quantity = int.Parse(Console.ReadLine());
         subtotal = quantity * this.price;
-        Console.WriteLine($"Subtotal = {subtotal}";
-        Console.WriteLine($"Taxes and Fees = {(subtotal * this.tax) + (subtotal * this.markup)}");
-        double totalCost = subtotal + (subtotal * this.tax) + (subtotal * this.markup);
-        Console.WriteLine($"Total Cost = {(subtotal) + (subtotal * this.tax)}");
+        Console.WriteLine($"Subtotal = {subtotal}");
+        Console.WriteLine($"Taxes and Fees = {(subtotal * tax) + (subtotal * markup)}");
+        double totalCost = subtotal + (subtotal * tax) + (subtotal * markup);
+        Console.WriteLine($"Total Cost = {(subtotal) + (subtotal * tax)}");
         return totalCost
     }
     public string Display()

@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{BCD99BD5-5FC4-4D8D-A2B5-04A03D1E23D4}|Default">
-  <MonoDevelop.Ide.ItemProperties.CH8Costs FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CH8Costs PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH8Costs/Program.cs">
+    <Files>
+      <File FileName="CH8Costs/Program.cs" Line="45" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH8Costs" expanded="True">
+            <Node name="CH8Costs" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
