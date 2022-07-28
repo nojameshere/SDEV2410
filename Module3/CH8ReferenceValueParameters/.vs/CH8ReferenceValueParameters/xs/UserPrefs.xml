@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7ADC41F7-99F2-45D0-A270-3FB1E2493711}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH8ReferenceValueParameters/Program.cs">
+    <Files>
+      <File FileName="CH8ReferenceValueParameters/Program.cs" Line="42" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH8ReferenceValueParameters" expanded="True">
+            <Node name="CH8ReferenceValueParameters" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CH8ReferenceValueParameters PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

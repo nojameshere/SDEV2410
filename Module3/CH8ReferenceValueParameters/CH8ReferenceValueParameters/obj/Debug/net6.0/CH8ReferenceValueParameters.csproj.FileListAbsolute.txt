@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/bin/Debug/net6.0/CH8ReferenceValueParameters
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/bin/Debug/net6.0/CH8ReferenceValueParameters.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/bin/Debug/net6.0/CH8ReferenceValueParameters.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/bin/Debug/net6.0/CH8ReferenceValueParameters.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/bin/Debug/net6.0/CH8ReferenceValueParameters.pdb
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/obj/Debug/net6.0/CH8ReferenceValueParameters.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/obj/Debug/net6.0/CH8ReferenceValueParameters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/obj/Debug/net6.0/CH8ReferenceValueParameters.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/obj/Debug/net6.0/CH8ReferenceValueParameters.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/obj/Debug/net6.0/CH8ReferenceValueParameters.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/obj/Debug/net6.0/CH8ReferenceValueParameters.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/obj/Debug/net6.0/refint/CH8ReferenceValueParameters.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/obj/Debug/net6.0/CH8ReferenceValueParameters.pdb
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/obj/Debug/net6.0/CH8ReferenceValueParameters.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/obj/Debug/net6.0/ref/CH8ReferenceValueParameters.dll

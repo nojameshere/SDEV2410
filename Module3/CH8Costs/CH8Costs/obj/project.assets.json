@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/CH8ReferenceValueParameters.csproj",
-      "projectName": "CH8ReferenceValueParameters",
-      "projectPath": "/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/CH8ReferenceValueParameters.csproj",
+      "projectUniqueName": "/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8Costs/CH8Costs/CH8Costs.csproj",
+      "projectName": "CH8Costs",
+      "projectPath": "/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8Costs/CH8Costs/CH8Costs.csproj",
       "packagesPath": "/Users/jamessales/.nuget/packages/",
-      "outputPath": "/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8ReferenceValueParameters/CH8ReferenceValueParameters/obj/",
+      "outputPath": "/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8Costs/CH8Costs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jamessales/.nuget/NuGet/NuGet.Config"
