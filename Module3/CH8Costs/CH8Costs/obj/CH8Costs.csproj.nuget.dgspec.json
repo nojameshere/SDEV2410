@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8Costs/CH8Costs/CH8Costs.csproj": {}
+    "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH8Costs\\CH8Costs\\CH8Costs.csproj": {}
   },
   "projects": {
-    "/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8Costs/CH8Costs/CH8Costs.csproj": {
+    "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH8Costs\\CH8Costs\\CH8Costs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8Costs/CH8Costs/CH8Costs.csproj",
+        "projectUniqueName": "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH8Costs\\CH8Costs\\CH8Costs.csproj",
         "projectName": "CH8Costs",
-        "projectPath": "/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8Costs/CH8Costs/CH8Costs.csproj",
-        "packagesPath": "/Users/jamessales/.nuget/packages/",
-        "outputPath": "/Users/jamessales/Documents/GitHub/SDEV2410/Module3/CH8Costs/CH8Costs/obj/",
+        "projectPath": "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH8Costs\\CH8Costs\\CH8Costs.csproj",
+        "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
+        "outputPath": "G:\\Users\\James\\Documents\\GitHub\\SDEV2410\\Module3\\CH8Costs\\CH8Costs\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/jamessales/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\James\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

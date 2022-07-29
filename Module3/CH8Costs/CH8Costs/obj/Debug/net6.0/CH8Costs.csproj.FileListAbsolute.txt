@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\bin\Debug\net6.0\CH8Costs.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\bin\Debug\net6.0\CH8Costs.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\bin\Debug\net6.0\CH8Costs.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\bin\Debug\net6.0\CH8Costs.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\bin\Debug\net6.0\CH8Costs.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\obj\Debug\net6.0\CH8Costs.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\obj\Debug\net6.0\CH8Costs.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\obj\Debug\net6.0\CH8Costs.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\obj\Debug\net6.0\CH8Costs.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\obj\Debug\net6.0\CH8Costs.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\obj\Debug\net6.0\CH8Costs.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\obj\Debug\net6.0\refint\CH8Costs.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\obj\Debug\net6.0\CH8Costs.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\obj\Debug\net6.0\CH8Costs.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\CH8Costs\CH8Costs\obj\Debug\net6.0\ref\CH8Costs.dll
