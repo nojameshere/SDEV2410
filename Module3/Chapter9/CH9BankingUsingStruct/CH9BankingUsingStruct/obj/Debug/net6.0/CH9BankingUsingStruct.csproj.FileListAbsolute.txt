@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\obj\Debug\net6.0\CH9BankingUsingStruct.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\obj\Debug\net6.0\CH9BankingUsingStruct.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\obj\Debug\net6.0\CH9BankingUsingStruct.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\obj\Debug\net6.0\CH9BankingUsingStruct.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\obj\Debug\net6.0\CH9BankingUsingStruct.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\bin\Debug\net6.0\CH9BankingUsingStruct.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\bin\Debug\net6.0\CH9BankingUsingStruct.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\bin\Debug\net6.0\CH9BankingUsingStruct.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\bin\Debug\net6.0\CH9BankingUsingStruct.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\bin\Debug\net6.0\CH9BankingUsingStruct.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\obj\Debug\net6.0\CH9BankingUsingStruct.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\obj\Debug\net6.0\refint\CH9BankingUsingStruct.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\obj\Debug\net6.0\CH9BankingUsingStruct.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\obj\Debug\net6.0\CH9BankingUsingStruct.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9BankingUsingStruct\CH9BankingUsingStruct\obj\Debug\net6.0\ref\CH9BankingUsingStruct.dll

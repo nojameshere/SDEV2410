@@ -1,21 +1,21 @@
-﻿int userInput = 0, total = 0, count = 0;
-double avg = 0;
-string answer = "y";
-while (answer == "y")
+﻿Fun fruit = new Fun();
+fruit.Display();
+fruit.price = 55;
+fruit.Display();
+
+
+
+class Fun
 {
-    try
+    string name;
+    public int price;
+    public Fun()
     {
-        Console.Write("Enter new number: ");
-        userInput = Convert.ToInt32(Console.ReadLine());
-        total = total + userInput;
-        count = count + 1;
+        this.name = "banana";
+        this.price = 21;
     }
-    catch (FormatException e)
+    public void Display()
     {
-        Console.WriteLine("Invalid input, please enter an integer");
+        Console.WriteLine($"{name} {price}");
     }
-    Console.Write("Do you have more data to enter? (y/n) ");
-    answer = Console.ReadLine();
 }
-avg = total / count;
-Console.WriteLine($"Results: Total = {total}, Count = {count}, Average = {avg}");
