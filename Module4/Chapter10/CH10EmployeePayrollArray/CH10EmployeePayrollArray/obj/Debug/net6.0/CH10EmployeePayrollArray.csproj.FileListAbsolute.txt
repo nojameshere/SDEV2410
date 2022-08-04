@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/bin/Debug/net6.0/CH10EmployeePayrollArray
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/bin/Debug/net6.0/CH10EmployeePayrollArray.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/bin/Debug/net6.0/CH10EmployeePayrollArray.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/bin/Debug/net6.0/CH10EmployeePayrollArray.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/bin/Debug/net6.0/CH10EmployeePayrollArray.pdb
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/obj/Debug/net6.0/CH10EmployeePayrollArray.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/obj/Debug/net6.0/CH10EmployeePayrollArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/obj/Debug/net6.0/CH10EmployeePayrollArray.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/obj/Debug/net6.0/CH10EmployeePayrollArray.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/obj/Debug/net6.0/CH10EmployeePayrollArray.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/obj/Debug/net6.0/CH10EmployeePayrollArray.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/obj/Debug/net6.0/refint/CH10EmployeePayrollArray.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/obj/Debug/net6.0/CH10EmployeePayrollArray.pdb
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/obj/Debug/net6.0/CH10EmployeePayrollArray.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module4/Chapter10/CH10EmployeePayrollArray/CH10EmployeePayrollArray/obj/Debug/net6.0/ref/CH10EmployeePayrollArray.dll
