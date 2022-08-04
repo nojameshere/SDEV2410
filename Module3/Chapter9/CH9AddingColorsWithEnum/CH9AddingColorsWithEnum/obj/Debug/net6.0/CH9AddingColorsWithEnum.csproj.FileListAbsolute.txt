@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\bin\Debug\net6.0\CH9AddingColorsWithEnum.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\bin\Debug\net6.0\CH9AddingColorsWithEnum.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\bin\Debug\net6.0\CH9AddingColorsWithEnum.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\bin\Debug\net6.0\CH9AddingColorsWithEnum.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\bin\Debug\net6.0\CH9AddingColorsWithEnum.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\obj\Debug\net6.0\CH9AddingColorsWithEnum.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\obj\Debug\net6.0\CH9AddingColorsWithEnum.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\obj\Debug\net6.0\CH9AddingColorsWithEnum.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\obj\Debug\net6.0\CH9AddingColorsWithEnum.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\obj\Debug\net6.0\CH9AddingColorsWithEnum.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\obj\Debug\net6.0\CH9AddingColorsWithEnum.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\obj\Debug\net6.0\refint\CH9AddingColorsWithEnum.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\obj\Debug\net6.0\CH9AddingColorsWithEnum.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\obj\Debug\net6.0\CH9AddingColorsWithEnum.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AddingColorsWithEnum\CH9AddingColorsWithEnum\obj\Debug\net6.0\ref\CH9AddingColorsWithEnum.dll
