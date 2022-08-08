@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\bin\Debug\net6.0\CH9AnnualRaises.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\bin\Debug\net6.0\CH9AnnualRaises.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\bin\Debug\net6.0\CH9AnnualRaises.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\bin\Debug\net6.0\CH9AnnualRaises.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\bin\Debug\net6.0\CH9AnnualRaises.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\obj\Debug\net6.0\CH9AnnualRaises.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\obj\Debug\net6.0\CH9AnnualRaises.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\obj\Debug\net6.0\CH9AnnualRaises.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\obj\Debug\net6.0\CH9AnnualRaises.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\obj\Debug\net6.0\CH9AnnualRaises.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\obj\Debug\net6.0\CH9AnnualRaises.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\obj\Debug\net6.0\refint\CH9AnnualRaises.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\obj\Debug\net6.0\CH9AnnualRaises.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\obj\Debug\net6.0\CH9AnnualRaises.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\Chapter9\CH9AnnualRaises\CH9AnnualRaises\obj\Debug\net6.0\ref\CH9AnnualRaises.dll

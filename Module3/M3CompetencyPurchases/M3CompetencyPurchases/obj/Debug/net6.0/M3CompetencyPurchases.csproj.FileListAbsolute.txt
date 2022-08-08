@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\bin\Debug\net6.0\M3CompetencyPurchases.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\bin\Debug\net6.0\M3CompetencyPurchases.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\bin\Debug\net6.0\M3CompetencyPurchases.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\bin\Debug\net6.0\M3CompetencyPurchases.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\bin\Debug\net6.0\M3CompetencyPurchases.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\refint\M3CompetencyPurchases.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\M3CompetencyPurchases.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module3\M3CompetencyPurchases\M3CompetencyPurchases\obj\Debug\net6.0\ref\M3CompetencyPurchases.dll
