@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B8D26223-BA81-4B00-AD10-5EDD250B4691}|Default">
+  <MonoDevelop.Ide.ItemProperties.CH10EmployeePayrollArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CH10EmployeePayrollArray/Program.cs">
+    <Files>
+      <File FileName="CH10EmployeePayrollArray/Program.cs" Line="19" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CH10EmployeePayrollArray" expanded="True">
+            <Node name="CH10EmployeePayrollArray" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
