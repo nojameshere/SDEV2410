@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\bin\Debug\net6.0\CH10MonthlySales.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\bin\Debug\net6.0\CH10MonthlySales.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\bin\Debug\net6.0\CH10MonthlySales.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\bin\Debug\net6.0\CH10MonthlySales.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\bin\Debug\net6.0\CH10MonthlySales.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\obj\Debug\net6.0\CH10MonthlySales.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\obj\Debug\net6.0\CH10MonthlySales.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\obj\Debug\net6.0\CH10MonthlySales.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\obj\Debug\net6.0\CH10MonthlySales.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\obj\Debug\net6.0\CH10MonthlySales.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\obj\Debug\net6.0\CH10MonthlySales.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\obj\Debug\net6.0\refint\CH10MonthlySales.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\obj\Debug\net6.0\CH10MonthlySales.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\obj\Debug\net6.0\CH10MonthlySales.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10MonthlySales\CH10MonthlySales\obj\Debug\net6.0\ref\CH10MonthlySales.dll

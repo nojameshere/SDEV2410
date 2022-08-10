@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\obj\Debug\net6.0\CH10InventoryArray.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\obj\Debug\net6.0\CH10InventoryArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\obj\Debug\net6.0\CH10InventoryArray.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\obj\Debug\net6.0\CH10InventoryArray.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\obj\Debug\net6.0\CH10InventoryArray.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\bin\Debug\net6.0\CH10InventoryArray.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\bin\Debug\net6.0\CH10InventoryArray.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\bin\Debug\net6.0\CH10InventoryArray.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\bin\Debug\net6.0\CH10InventoryArray.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\bin\Debug\net6.0\CH10InventoryArray.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\obj\Debug\net6.0\CH10InventoryArray.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\obj\Debug\net6.0\refint\CH10InventoryArray.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\obj\Debug\net6.0\CH10InventoryArray.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\obj\Debug\net6.0\CH10InventoryArray.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10InventoryArray\CH10InventoryArray\obj\Debug\net6.0\ref\CH10InventoryArray.dll

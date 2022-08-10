@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\bin\Debug\net6.0\CH10DiceRollsArray.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\bin\Debug\net6.0\CH10DiceRollsArray.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\bin\Debug\net6.0\CH10DiceRollsArray.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\bin\Debug\net6.0\CH10DiceRollsArray.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\bin\Debug\net6.0\CH10DiceRollsArray.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\obj\Debug\net6.0\CH10DiceRollsArray.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\obj\Debug\net6.0\CH10DiceRollsArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\obj\Debug\net6.0\CH10DiceRollsArray.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\obj\Debug\net6.0\CH10DiceRollsArray.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\obj\Debug\net6.0\CH10DiceRollsArray.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\obj\Debug\net6.0\CH10DiceRollsArray.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\obj\Debug\net6.0\refint\CH10DiceRollsArray.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\obj\Debug\net6.0\CH10DiceRollsArray.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\obj\Debug\net6.0\CH10DiceRollsArray.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter10\CH10DiceRollsArray\CH10DiceRollsArray\obj\Debug\net6.0\ref\CH10DiceRollsArray.dll
