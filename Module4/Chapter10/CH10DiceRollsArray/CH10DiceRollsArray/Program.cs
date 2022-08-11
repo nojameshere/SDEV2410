@@ -5,10 +5,16 @@ Random rng = new Random();
 int diceRolls = 0;
 for (int i = 0; i < 100; i++)
 {
-    int temp = rng.Next(1, 7);
-    int temp2 = rng.Next(1, 7);
-    rolls[(temp + temp2) - 1]++;
-    diceRolls++;
+    try
+    {
+        int temp = rng.Next(1, 7);
+        int temp2 = rng.Next(1, 7);
+        rolls[(temp + temp2) - 1]++;
+    }
+    catch (IndexOutOfRangeException)
+    {
+        Console.WriteLine($"Index was outside the bounds of the array. Index = {i + 1}");
+    }
 }
 for (int i = 0; i < rolls.Length; i++)
 {
@@ -20,6 +26,10 @@ for (int i = 0; i < rolls.Length; i++)
     {
         Console.WriteLine($"Index was outside the bounds of the array. Index = {i + 1}");
     }
+}
+for (int i = 0; i < rolls.Length; i ++)
+{
+    diceRolls += rolls[i];
 }
 Console.WriteLine($"Total number of rolls: {diceRolls}");
 
