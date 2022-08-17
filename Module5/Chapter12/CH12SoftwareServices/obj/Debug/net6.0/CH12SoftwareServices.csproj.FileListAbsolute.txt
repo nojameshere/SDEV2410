@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/obj/Debug/net6.0/CH12SoftwareServices.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/obj/Debug/net6.0/CH12SoftwareServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/obj/Debug/net6.0/CH12SoftwareServices.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/obj/Debug/net6.0/CH12SoftwareServices.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/obj/Debug/net6.0/CH12SoftwareServices.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/bin/Debug/net6.0/CH12SoftwareServices
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/bin/Debug/net6.0/CH12SoftwareServices.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/bin/Debug/net6.0/CH12SoftwareServices.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/bin/Debug/net6.0/CH12SoftwareServices.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/bin/Debug/net6.0/CH12SoftwareServices.pdb
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/obj/Debug/net6.0/CH12SoftwareServices.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/obj/Debug/net6.0/refint/CH12SoftwareServices.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/obj/Debug/net6.0/CH12SoftwareServices.pdb
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/obj/Debug/net6.0/CH12SoftwareServices.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter12/CH12SoftwareServices/obj/Debug/net6.0/ref/CH12SoftwareServices.dll
