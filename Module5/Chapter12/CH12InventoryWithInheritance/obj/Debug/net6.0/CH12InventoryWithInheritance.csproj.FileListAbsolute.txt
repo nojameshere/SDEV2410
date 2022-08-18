@@ -1,0 +1,15 @@
+/Users/jamessales/Projects/CH12InventoryWithInheritance/obj/Debug/net6.0/CH12InventoryWithInheritance.csproj.AssemblyReference.cache
+/Users/jamessales/Projects/CH12InventoryWithInheritance/obj/Debug/net6.0/CH12InventoryWithInheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Projects/CH12InventoryWithInheritance/obj/Debug/net6.0/CH12InventoryWithInheritance.AssemblyInfoInputs.cache
+/Users/jamessales/Projects/CH12InventoryWithInheritance/obj/Debug/net6.0/CH12InventoryWithInheritance.AssemblyInfo.cs
+/Users/jamessales/Projects/CH12InventoryWithInheritance/obj/Debug/net6.0/CH12InventoryWithInheritance.csproj.CoreCompileInputs.cache
+/Users/jamessales/Projects/CH12InventoryWithInheritance/bin/Debug/net6.0/CH12InventoryWithInheritance
+/Users/jamessales/Projects/CH12InventoryWithInheritance/bin/Debug/net6.0/CH12InventoryWithInheritance.deps.json
+/Users/jamessales/Projects/CH12InventoryWithInheritance/bin/Debug/net6.0/CH12InventoryWithInheritance.runtimeconfig.json
+/Users/jamessales/Projects/CH12InventoryWithInheritance/bin/Debug/net6.0/CH12InventoryWithInheritance.dll
+/Users/jamessales/Projects/CH12InventoryWithInheritance/bin/Debug/net6.0/CH12InventoryWithInheritance.pdb
+/Users/jamessales/Projects/CH12InventoryWithInheritance/obj/Debug/net6.0/CH12InventoryWithInheritance.dll
+/Users/jamessales/Projects/CH12InventoryWithInheritance/obj/Debug/net6.0/refint/CH12InventoryWithInheritance.dll
+/Users/jamessales/Projects/CH12InventoryWithInheritance/obj/Debug/net6.0/CH12InventoryWithInheritance.pdb
+/Users/jamessales/Projects/CH12InventoryWithInheritance/obj/Debug/net6.0/CH12InventoryWithInheritance.genruntimeconfig.cache
+/Users/jamessales/Projects/CH12InventoryWithInheritance/obj/Debug/net6.0/ref/CH12InventoryWithInheritance.dll
