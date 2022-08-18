@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CH11CompanyPotluck/1.0.0": {
+        "runtime": {
+          "CH11CompanyPotluck.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH11CompanyPotluck/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

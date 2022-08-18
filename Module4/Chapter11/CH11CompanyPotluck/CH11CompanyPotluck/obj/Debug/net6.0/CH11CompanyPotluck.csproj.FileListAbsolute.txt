@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\bin\Debug\net6.0\CH11CompanyPotluck.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\bin\Debug\net6.0\CH11CompanyPotluck.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\bin\Debug\net6.0\CH11CompanyPotluck.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\bin\Debug\net6.0\CH11CompanyPotluck.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\bin\Debug\net6.0\CH11CompanyPotluck.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\obj\Debug\net6.0\CH11CompanyPotluck.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\obj\Debug\net6.0\CH11CompanyPotluck.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\obj\Debug\net6.0\CH11CompanyPotluck.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\obj\Debug\net6.0\CH11CompanyPotluck.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\obj\Debug\net6.0\CH11CompanyPotluck.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\obj\Debug\net6.0\CH11CompanyPotluck.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\obj\Debug\net6.0\refint\CH11CompanyPotluck.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\obj\Debug\net6.0\CH11CompanyPotluck.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\obj\Debug\net6.0\CH11CompanyPotluck.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CompanyPotluck\CH11CompanyPotluck\obj\Debug\net6.0\ref\CH11CompanyPotluck.dll

@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\bin\Debug\net6.0\CH11CountWords.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\bin\Debug\net6.0\CH11CountWords.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\bin\Debug\net6.0\CH11CountWords.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\bin\Debug\net6.0\CH11CountWords.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\bin\Debug\net6.0\CH11CountWords.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\obj\Debug\net6.0\CH11CountWords.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\obj\Debug\net6.0\CH11CountWords.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\obj\Debug\net6.0\CH11CountWords.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\obj\Debug\net6.0\CH11CountWords.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\obj\Debug\net6.0\CH11CountWords.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\obj\Debug\net6.0\CH11CountWords.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\obj\Debug\net6.0\refint\CH11CountWords.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\obj\Debug\net6.0\CH11CountWords.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\obj\Debug\net6.0\CH11CountWords.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CountWords\CH11CountWords\obj\Debug\net6.0\ref\CH11CountWords.dll

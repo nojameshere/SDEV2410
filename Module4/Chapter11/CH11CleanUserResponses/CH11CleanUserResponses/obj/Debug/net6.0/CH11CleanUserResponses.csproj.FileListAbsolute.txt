@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\bin\Debug\net6.0\CH11CleanUserResponses.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\bin\Debug\net6.0\CH11CleanUserResponses.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\bin\Debug\net6.0\CH11CleanUserResponses.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\bin\Debug\net6.0\CH11CleanUserResponses.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\bin\Debug\net6.0\CH11CleanUserResponses.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\obj\Debug\net6.0\CH11CleanUserResponses.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\obj\Debug\net6.0\CH11CleanUserResponses.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\obj\Debug\net6.0\CH11CleanUserResponses.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\obj\Debug\net6.0\CH11CleanUserResponses.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\obj\Debug\net6.0\CH11CleanUserResponses.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\obj\Debug\net6.0\CH11CleanUserResponses.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\obj\Debug\net6.0\refint\CH11CleanUserResponses.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\obj\Debug\net6.0\CH11CleanUserResponses.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\obj\Debug\net6.0\CH11CleanUserResponses.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11CleanUserResponses\CH11CleanUserResponses\obj\Debug\net6.0\ref\CH11CleanUserResponses.dll

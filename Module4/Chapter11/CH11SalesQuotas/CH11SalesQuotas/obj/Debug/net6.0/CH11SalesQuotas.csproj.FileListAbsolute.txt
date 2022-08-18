@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\bin\Debug\net6.0\CH11SalesQuotas.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\bin\Debug\net6.0\CH11SalesQuotas.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\bin\Debug\net6.0\CH11SalesQuotas.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\bin\Debug\net6.0\CH11SalesQuotas.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\bin\Debug\net6.0\CH11SalesQuotas.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\obj\Debug\net6.0\CH11SalesQuotas.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\obj\Debug\net6.0\CH11SalesQuotas.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\obj\Debug\net6.0\CH11SalesQuotas.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\obj\Debug\net6.0\CH11SalesQuotas.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\obj\Debug\net6.0\CH11SalesQuotas.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\obj\Debug\net6.0\CH11SalesQuotas.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\obj\Debug\net6.0\refint\CH11SalesQuotas.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\obj\Debug\net6.0\CH11SalesQuotas.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\obj\Debug\net6.0\CH11SalesQuotas.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11SalesQuotas\CH11SalesQuotas\obj\Debug\net6.0\ref\CH11SalesQuotas.dll

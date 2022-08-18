@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\bin\Debug\net6.0\Module4Competency.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\bin\Debug\net6.0\Module4Competency.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\bin\Debug\net6.0\Module4Competency.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\bin\Debug\net6.0\Module4Competency.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\bin\Debug\net6.0\Module4Competency.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\obj\Debug\net6.0\Module4Competency.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\obj\Debug\net6.0\Module4Competency.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\obj\Debug\net6.0\Module4Competency.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\obj\Debug\net6.0\Module4Competency.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\obj\Debug\net6.0\Module4Competency.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\obj\Debug\net6.0\Module4Competency.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\obj\Debug\net6.0\refint\Module4Competency.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\obj\Debug\net6.0\Module4Competency.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\obj\Debug\net6.0\Module4Competency.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Module4Competency\Module4Competency\obj\Debug\net6.0\ref\Module4Competency.dll

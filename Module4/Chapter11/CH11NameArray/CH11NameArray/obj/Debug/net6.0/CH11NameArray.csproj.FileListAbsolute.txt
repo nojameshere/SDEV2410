@@ -1,0 +1,15 @@
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\bin\Debug\net6.0\CH11NameArray.exe
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\bin\Debug\net6.0\CH11NameArray.deps.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\bin\Debug\net6.0\CH11NameArray.runtimeconfig.json
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\bin\Debug\net6.0\CH11NameArray.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\bin\Debug\net6.0\CH11NameArray.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\obj\Debug\net6.0\CH11NameArray.csproj.AssemblyReference.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\obj\Debug\net6.0\CH11NameArray.GeneratedMSBuildEditorConfig.editorconfig
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\obj\Debug\net6.0\CH11NameArray.AssemblyInfoInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\obj\Debug\net6.0\CH11NameArray.AssemblyInfo.cs
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\obj\Debug\net6.0\CH11NameArray.csproj.CoreCompileInputs.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\obj\Debug\net6.0\CH11NameArray.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\obj\Debug\net6.0\refint\CH11NameArray.dll
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\obj\Debug\net6.0\CH11NameArray.pdb
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\obj\Debug\net6.0\CH11NameArray.genruntimeconfig.cache
+G:\Users\James\Documents\GitHub\SDEV2410\Module4\Chapter11\CH11NameArray\CH11NameArray\obj\Debug\net6.0\ref\CH11NameArray.dll

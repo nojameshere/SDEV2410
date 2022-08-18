@@ -1,12 +1,4 @@
-﻿string[] getNames()
-{
-    Console.Write("How many names ? ");
-    int size = int.Parse(Console.ReadLine());
-    string[] names = new string[];
-    foreach (int k = 1; k <= size; k++)
-   {
-        Console.Write("Enter new name: ");
-        names[k] = Console.ReadKey();
-    }
-return names;
-}
+﻿string mon = "Apr";
+int day = 15;
+int yr = 2020;
+Console.WriteLine("Tax Day is {0} {1} {2}", day, mon, yr);
