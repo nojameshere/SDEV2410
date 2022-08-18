@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CH12FleetOfVehicles/1.0.0": {
+        "runtime": {
+          "CH12FleetOfVehicles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CH12FleetOfVehicles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
