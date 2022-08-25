@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/bin/Debug/net6.0/CH13GreaterThanInterface
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/bin/Debug/net6.0/CH13GreaterThanInterface.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/bin/Debug/net6.0/CH13GreaterThanInterface.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/bin/Debug/net6.0/CH13GreaterThanInterface.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/bin/Debug/net6.0/CH13GreaterThanInterface.pdb
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/obj/Debug/net6.0/CH13GreaterThanInterface.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/obj/Debug/net6.0/CH13GreaterThanInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/obj/Debug/net6.0/CH13GreaterThanInterface.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/obj/Debug/net6.0/CH13GreaterThanInterface.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/obj/Debug/net6.0/CH13GreaterThanInterface.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/obj/Debug/net6.0/CH13GreaterThanInterface.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/obj/Debug/net6.0/refint/CH13GreaterThanInterface.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/obj/Debug/net6.0/CH13GreaterThanInterface.pdb
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/obj/Debug/net6.0/CH13GreaterThanInterface.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13GreaterThanInterface/obj/Debug/net6.0/ref/CH13GreaterThanInterface.dll

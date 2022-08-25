@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/bin/Debug/net6.0/M5CompetencyAwardsProcessing
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/bin/Debug/net6.0/M5CompetencyAwardsProcessing.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/bin/Debug/net6.0/M5CompetencyAwardsProcessing.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/bin/Debug/net6.0/M5CompetencyAwardsProcessing.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/bin/Debug/net6.0/M5CompetencyAwardsProcessing.pdb
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/obj/Debug/net6.0/M5CompetencyAwardsProcessing.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/obj/Debug/net6.0/M5CompetencyAwardsProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/obj/Debug/net6.0/M5CompetencyAwardsProcessing.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/obj/Debug/net6.0/M5CompetencyAwardsProcessing.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/obj/Debug/net6.0/M5CompetencyAwardsProcessing.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/obj/Debug/net6.0/M5CompetencyAwardsProcessing.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/obj/Debug/net6.0/refint/M5CompetencyAwardsProcessing.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/obj/Debug/net6.0/M5CompetencyAwardsProcessing.pdb
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/obj/Debug/net6.0/M5CompetencyAwardsProcessing.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/M5CompetencyAwardsProcessing/obj/Debug/net6.0/ref/M5CompetencyAwardsProcessing.dll

@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/obj/Debug/net6.0/CH13BankAccounts.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/obj/Debug/net6.0/CH13BankAccounts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/obj/Debug/net6.0/CH13BankAccounts.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/obj/Debug/net6.0/CH13BankAccounts.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/obj/Debug/net6.0/CH13BankAccounts.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/bin/Debug/net6.0/CH13BankAccounts
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/bin/Debug/net6.0/CH13BankAccounts.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/bin/Debug/net6.0/CH13BankAccounts.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/bin/Debug/net6.0/CH13BankAccounts.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/bin/Debug/net6.0/CH13BankAccounts.pdb
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/obj/Debug/net6.0/CH13BankAccounts.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/obj/Debug/net6.0/refint/CH13BankAccounts.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/obj/Debug/net6.0/CH13BankAccounts.pdb
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/obj/Debug/net6.0/CH13BankAccounts.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13BankAccounts/obj/Debug/net6.0/ref/CH13BankAccounts.dll

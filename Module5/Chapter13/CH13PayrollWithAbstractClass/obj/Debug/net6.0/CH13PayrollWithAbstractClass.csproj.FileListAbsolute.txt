@@ -1,0 +1,15 @@
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/bin/Debug/net6.0/CH13PayrollWithAbstractClass
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/bin/Debug/net6.0/CH13PayrollWithAbstractClass.deps.json
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/bin/Debug/net6.0/CH13PayrollWithAbstractClass.runtimeconfig.json
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/bin/Debug/net6.0/CH13PayrollWithAbstractClass.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/bin/Debug/net6.0/CH13PayrollWithAbstractClass.pdb
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/obj/Debug/net6.0/CH13PayrollWithAbstractClass.csproj.AssemblyReference.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/obj/Debug/net6.0/CH13PayrollWithAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/obj/Debug/net6.0/CH13PayrollWithAbstractClass.AssemblyInfoInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/obj/Debug/net6.0/CH13PayrollWithAbstractClass.AssemblyInfo.cs
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/obj/Debug/net6.0/CH13PayrollWithAbstractClass.csproj.CoreCompileInputs.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/obj/Debug/net6.0/CH13PayrollWithAbstractClass.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/obj/Debug/net6.0/refint/CH13PayrollWithAbstractClass.dll
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/obj/Debug/net6.0/CH13PayrollWithAbstractClass.pdb
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/obj/Debug/net6.0/CH13PayrollWithAbstractClass.genruntimeconfig.cache
+/Users/jamessales/Documents/GitHub/SDEV2410/Module5/Chapter13/CH13PayrollWithAbstractClass/obj/Debug/net6.0/ref/CH13PayrollWithAbstractClass.dll
