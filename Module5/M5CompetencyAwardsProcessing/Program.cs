@@ -14,22 +14,19 @@ for (int i = 1; i < 4; i++)
     {
         Console.WriteLine(person.ToString());
         person.addSales();
-        if (person is Customer)
-        {
-            Customer tempCustomer = (Customer)person;
-            tempCustomer.isBirthday(i);
-        }
-        if (person is SalesRep)
-        {
-            SalesRep tempSR = (SalesRep)person;
-            tempSR.calcComission(i);
-        }
+        person.calcBonus(i);
     }
 }
 
 Console.WriteLine("\nYou've reached a locked door, try one of your many keys");
 Console.ReadKey();
-class Person
+
+interface Bonus
+{
+    public void calcBonus(int month);
+}
+
+abstract class Person : Bonus
 {
     string first, last, ID;
     protected double newSales;
@@ -51,6 +48,7 @@ class Person
         totalSales += newSales;
         Console.WriteLine($"New sales total: {totalSales:c}");
     }
+    public abstract void calcBonus(int month);
 }
 
 class Customer : Person
@@ -65,7 +63,7 @@ class Customer : Person
     {
         return $"Customer {base.ToString()}, birth month {birthMonth}, sales {totalSales:c}";
     }
-    public void isBirthday(int month)
+    public override void calcBonus(int month)
     {
         if (month == birthMonth)
         {
@@ -92,7 +90,7 @@ class SalesRep : Person
     {
         return $"Sales Rep {base.ToString()}, comission rate {comissionRate}%, sales {totalSales:c}, quota {quota:c}";
     }
-    public void calcComission(int month)
+    public override void calcBonus(int month)
     {
         //needs to calc comission and return quota bonus.
         double comission = (comissionRate / 100) * newSales;
